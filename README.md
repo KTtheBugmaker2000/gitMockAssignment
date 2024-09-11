@@ -1,5 +1,5 @@
 # Git Mock Assignment (OOP for AI 2024-25)
-hello
+
 In this assignment, you are required to create a very simple Python script that you'll need to submit, having a sequence of automatic tests (concerning mainly style and libraries) pass.
 
 ## Your code
